@@ -7,19 +7,27 @@ Inspired by awesomeness lists out there.
 ## Contents
 
 - [Projects](#projects)
-	- [OTRv4](#otrv4)
-	- [CoyIM](#coyim)
+  - [OTRv4](#otrv4)
+  - [CoyIM](#coyim)
 - [Cryptography](#cryptography)
 - [Programming Languages](#programming-languages)
-	- [Go](#go)
-	- [C](#c)
-	- [GTK](#gtk)
+  - [Go](#go)
+  - [C](#c)
+  - [GTK](#gtk)
 
 ## Projects
 
 ### OTRv4
 
 [OTRv4](https://github.com/OTRv4) is version 4 of the Off-The-Record protocol, which provides encryption for instant messaging conversations.
+
+- [Website](http://otr.im/)
+- [Repository](https://github.com/otrv4)
+- [Bugtracker](https://bugs.otr.im/)
+- [IRC](https://webchat.oftc.net/?randomnick=1&channels=otr&uio=d4)
+- [Dev Mailinglist](https://lists.cypherpunks.ca/mailman/listinfo/otr-dev)
+- [User mailinglist](https://lists.cypherpunks.ca/mailman/listinfo/otr-users)
+- [Announce mailinglist](https://lists.cypherpunks.ca/mailman/listinfo/otr-announce)
 
 ### CoyIM
 
