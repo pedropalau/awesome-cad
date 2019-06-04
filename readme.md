@@ -6,11 +6,24 @@ Inspired by awesomeness lists out there.
 
 ## Contents
 
+- [Projects](#projects)
+	- [OTRv4](#otrv4)
+	- [CoyIM](#coyim)
 - [Cryptography](#cryptography)
 - [Programming Languages](#programming-languages)
 	- [Go](#go)
 	- [C](#c)
 	- [GTK](#gtk)
+
+## Projects
+
+### OTRv4
+
+[OTRv4](https://github.com/OTRv4) is version 4 of the Off-The-Record protocol, which provides encryption for instant messaging conversations.
+
+### CoyIM
+
+[CoyIM](https://coy.im/) is a new chat client that is safe and secure by default.
 
 ## Cryptography
 
