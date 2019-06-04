@@ -32,13 +32,14 @@ A curated list of awesome resources, papers, tools and languages we use at [Cent
 #### Resources
 - [OTRv4 Prekey Server Specification](https://github.com/otrv4/otrv4-prekey-server)
 - [Prosody server with a OTRv4 prekey server included](https://github.com/otrv4/prekey-server-docker-compose)
-- [OTRv4 Prekey Server implementation in Golang]([https://github.com/otrv4/otrng-prekey-server](https://github.com/otrv4/otrng-prekey-server))
+- [OTRv4 Prekey Server implementation in Golang](https://github.com/otrv4/otrng-prekey-server)
 
 ### <a id="pidgin"></a>OTRv4 for Pidgin
 
 This is a Pidgin plugin which implements Off-the-Record (OTRv4) Messaging, in its version 4.
 
-- [Repository]([https://github.com/otrv4/pidgin-otrng](https://github.com/otrv4/pidgin-otrng))
+- [Repository](https://github.com/otrv4/pidgin-otrng)
+
 ### CoyIM
 
 [CoyIM](https://coy.im/) is a new chat client that is safe and secure by default.
