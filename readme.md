@@ -33,6 +33,11 @@ Inspired by awesomeness lists out there.
 
 [CoyIM](https://coy.im/) is a new chat client that is safe and secure by default.
 
+- [Website](https://coy.im/)
+- [Repository](https://github.com/coyim/coyim)
+- **Social**
+- [Twitter](https://twitter.com/coyproject)
+
 ## Cryptography
 
 - [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
