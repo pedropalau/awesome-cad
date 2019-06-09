@@ -8,12 +8,12 @@ A curated list of awesome resources, papers, tools and languages we use at [Cent
 	- [OTRv4 for Pidgin](#pidgin) - Plugin which implements `OTRv4` for Pidgin.
 	- [CoyIM](#coyim) - Instant Messaging (chat) Client.
 -  [Cryptography & Privacy](#cryptography)
-	- [Papers](#cryptography-papers)
-	- [Resources](#cryptography-resources)
+	- [Papers](#cryptography-papers) - Highlighted cryptographic research.
+	- [Resources](#cryptography-resources) - Available resources for secure digital communications.
 -  [Programming Languages](#programming-languages)
-	- [Go](#go)
-	- [C](#c)
-	- [GTK](#gtk)  
+	- [C](#c) - General-purpose, imperative computer programming language supporting structured programming, lexical variable scope, and recursion.
+	- [Go](#go) - Statically typed compiled language in the tradition of C.
+	- [GTK](#gtk) - Cross-platform widget toolkit for creating graphical user interfaces.	
 
 ## Projects
 
@@ -59,6 +59,19 @@ This is a Pidgin plugin which implements Off-the-Record (OTRv4) Messaging, in it
 
 ## Programming Languages
 
+### C Programming Language
+
+C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+
+#### Resources
+  
+- [Awesome C](https://notabug.org/koz.ross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things.
+- [Learn C and C++ Programming](https://www.cprogramming.com/) -  Beginner-friendly tutorials and advanced articles.
+
+#### Books
+
+-  [21st Century C](http://shop.oreilly.com/product/0636920025108.do) - C Tips from the New School
+
 ### <a id="go"></a>Go Programming Language
 
 Go is a statically typed compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrent programming features added.
@@ -74,19 +87,6 @@ Go is a statically typed compiled language in the tradition of C, with memory sa
 - [List of Golang books](https://github.com/dariubs/GoBooks)
 - [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 - [Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
-
-### C Programming Language
-
-C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
-
-#### Resources
-  
-- [Awesome C](https://notabug.org/koz.ross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things.
-- [Learn C and C++ Programming](https://www.cprogramming.com/) -  Beginner-friendly tutorials and advanced articles.
-
-#### Books
-
--  [21st Century C](http://shop.oreilly.com/product/0636920025108.do) - C Tips from the New School
 
 ### GTK
 
